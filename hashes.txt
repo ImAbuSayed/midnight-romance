@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Midnight Romance
+
+This log tracks the cryptographic history and versioning for the song **Midnight Romance** (midnight-romance).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-01T03:16:18.266806 | `v1` | `d69d69dfe4016d5d5bbfe100d9f1353af4929f9a7f0d25da38cee2934b77595c` | `62b3be154c77e4c12ef7c7ad82803c7e39cf8c1c1dc3b7ed234e6c796ae37390` | `2026-06-01_midnight-romance-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

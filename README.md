@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/midnight-romance/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Midnight Romance](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/midnight-romance/) |
+| **Get License** | [Commercial Licensing for Midnight Romance](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/midnight-romance/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `d69d69dfe4016d5d5bbfe100d9f1353af4929f9a7f0d25da38cee2934b77595c` |
 | **Timestamp** | June 01, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
