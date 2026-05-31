@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/midnight-romance/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Midnight Romance](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/midnight-romance/) |
+| **Get License** | [License this song: Midnight Romance](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/midnight-romance/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I see the midnight melting in your eyes
+> So let the shadows sever all our ties
+> I want to pull you into something deep
+> Where all the secrets of the night we keep
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
